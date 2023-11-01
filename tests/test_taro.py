@@ -1,5 +1,5 @@
 import pytest
-from solutions.taro import taro_festival_happiness
+from questions.taro import taro_festival_happiness
 
 @pytest.mark.parametrize("N, happiness, expected_output", [
     (3, [[10, 40, 70], [20, 50, 80], [30, 60, 90]], 210),

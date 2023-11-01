@@ -15,7 +15,7 @@ The key to solving dynamic programming questions is to truly comprehend the valu
 
 ## Testing
 
-Make use of `pytest` to test your solutions. All the relevant test cases are neatly organized in the `tests` folder. Remember, there are no hidden tests. If your code is passing all the tests after you push, your solution is on the right track. Do ensure your code is original as we'll be using MOSS to check for plagiarism.
+Make use of `pytest` to test your questions. All the relevant test cases are neatly organized in the `tests` folder. Remember, there are no hidden tests. If your code is passing all the tests after you push, your solution is on the right track. Do ensure your code is original as we'll be using MOSS to check for plagiarism.
 
 ## Submission Details
 

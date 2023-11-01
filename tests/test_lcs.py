@@ -1,5 +1,5 @@
 import pytest
-from solutions.lcs import longest_common_segment
+from questions.lcs import longest_common_segment
 
 @pytest.mark.parametrize("s, t, expected", [
     # Normal Cases

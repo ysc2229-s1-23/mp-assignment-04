@@ -1,5 +1,5 @@
 import pytest
-from solutions.fib import fibonacci
+from questions.fib import fibonacci
 
 @pytest.mark.parametrize("input_val, expected_output", [
     (0, 0),
