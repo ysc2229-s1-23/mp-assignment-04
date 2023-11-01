@@ -1,5 +1,5 @@
 import pytest
-from questions.robots import robot_jump
+from solutions.robots import robot_jump
 
 @pytest.mark.parametrize("N, h, expected_output", [
     # Base test cases

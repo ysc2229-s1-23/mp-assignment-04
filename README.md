@@ -35,6 +35,6 @@ For this assignment, focus only on the Dynamic Programming concepts taught in th
 
 ## Let's Dive In!
 
-Now that you're all set, [**Fork the Assignment**](https://classroom.github.com/a/A1a__VxH) and embark on your dynamic programming journey! Remember, it's not about the destination (or the grades), but the journey of learning and understanding.
+Now that you're all set, [**Fork the Assignment**](https://classroom.github.com/a/S4E3owi4) and embark on your dynamic programming journey! Remember, it's not about the destination (or the grades), but the journey of learning and understanding.
 
 Good luck!

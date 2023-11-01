@@ -1,5 +1,5 @@
 import pytest
-from questions.randomness import probability_more_ones
+from solutions.randomness import probability_more_ones
 
 @pytest.mark.parametrize(
     "N, probabilities, expected",
