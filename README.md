@@ -7,7 +7,7 @@ The key to solving dynamic programming questions is to truly comprehend the valu
 
 ## Help and Support
 
-- **General Questions**: If you have any general questions or concepts that you'd like to discuss, head over to the [discussion forum](#).
+- **General Questions**: If you have any general questions or concepts that you'd like to discuss, head over to the [discussion forum](https://github.com/orgs/ysc2229-s1-23/discussions).
 
 - **Code-specific Questions**: If your issue is specific to the code you're writing, you can either commit and push your code and then open a pull request to ask for feedback or use the GitHub discussions feature. 
 
