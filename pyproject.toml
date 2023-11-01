@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mp-assignment-04"
+version = "0.1.0"
+description = ""
+authors = ["You Guang <yokurang@gmail.com>"]
+readme = "README.md"
+packages = [{include = "mp_assignment_04"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^7.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
